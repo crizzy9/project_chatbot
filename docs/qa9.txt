@@ -1,0 +1,2 @@
+What is a break-fix issue?
+Break-fix issues are technical problems you experience while using Azure services. "Break-fix" is an industry term that refers to “work involved in supporting a technology when it fails in the normal course of its function, which requires intervention by a support organization to be restored to working order."

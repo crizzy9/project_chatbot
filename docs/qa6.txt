@@ -1,0 +1,2 @@
+What are my options to receive technical support if I don’t have a support plan?
+You can raise questions on our  . The forums are an online resource where you can connect with other Azure customers and experts to ask questions, share experiences, or find solutions. There are two forum options: MSDN and Stack Overflow. MSDN is a Microsoft online property; Stack Overflow is not associated or affiliated with Microsoft.

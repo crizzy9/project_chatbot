@@ -1,0 +1,2 @@
+What is the Premier Cloud Service Dependency Map (CSDM)?
+The Cloud Service Dependency Map (CSDM) documents critical system dependencies, both upstream and downstream, that could impact your cloud services. This will help your IT staff recognize potential issues before they happen, and help them resolve issues faster when a problem happens.

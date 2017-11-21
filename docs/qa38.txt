@@ -1,0 +1,2 @@
+I've purchased support through my Enterprise Agreement (EA), but access to technical support is not enabled yet. How do I get technical support during this interim period?
+If you have already placed an order for a support plan via EA and the order is pending, you can be temporarily enabled to receive technical support. To do so, please submit a “Subscription Management” support request via the Microsoft   and indicate the plan that you ordered (Standard or Professional Direct) and provide a description of the issue. A support engineer will then contact you.

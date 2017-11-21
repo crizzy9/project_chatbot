@@ -1,0 +1,2 @@
+Can Partners use the Premier Support for Partner (PSfP) contract for Azure Support?
+Yes, Partners with Premier Support for Partners (PSfP) contracts are able to use their benefits to get Azure Support for their internal needs, as well as to assist their customers, as long as the Partner has been delegated admin/owner access to their customer’s Azure subscription. See FAQ above on how to submit a support request using your Premier contract.

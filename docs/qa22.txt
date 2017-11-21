@@ -1,0 +1,2 @@
+How do I authorize another person to submit support requests for a particular Azure subscription?
+ on how you can create a custom “Support Request Contributor” role at the subscription level and grant the role to all users who want to open a support request for that subscription.

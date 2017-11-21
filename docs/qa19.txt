@@ -1,0 +1,2 @@
+How do I submit a support request if I cannot log in to the portal?
+If you are unable to log in to the Azure Portal, visit   for assistance.

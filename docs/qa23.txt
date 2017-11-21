@@ -1,0 +1,2 @@
+I am developing applications on-behalf of, or assisting my client that is running on Microsoft Azure. How do I get support?
+You can get support from Azure in two ways:

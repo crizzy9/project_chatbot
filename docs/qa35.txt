@@ -1,0 +1,2 @@
+How do I purchase an Azure Support plan under an Enterprise Agreement?
+Enterprise Agreement (EA) customers can purchase Azure Standard, ProDirect, and Premier technical support through their Reseller. Developer Support is not available through an Enterprise Agreement.

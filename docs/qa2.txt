@@ -1,0 +1,2 @@
+For which languages does Microsoft provide support?
+Microsoft provides support in nine languages: English, Spanish, French, German, Italian, Portuguese, Traditional Chinese, Korean, and Japanese. Microsoft provides 24x7 support in English for all severities and in Japanese for severity A only. Support is available during local business hours only for all other supported languages and severities. Support outside business hours will be provided in English (with translation services). You may choose to wait for the next business day to receive support in your language.

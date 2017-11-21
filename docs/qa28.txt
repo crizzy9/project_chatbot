@@ -1,0 +1,2 @@
+Which support plan do I need in order to request a Root-Cause Analysis (RCA)?
+If you have opened an Azure technical support case and need an RCA, you can request one for all Azure support plans, including Premier.

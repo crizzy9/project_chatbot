@@ -1,0 +1,2 @@
+Do I get 24x7 support?
+Microsoft provides 24x7 in English for severity A and B and in Japanese for severity A. Developer support includes on severity C, the lowest severity level. For all other supported languages, Microsoft provides assistance during local business hours only. During non-business hours, you can request to have an English-speaking engineer support you, with the option of using our free-of-charge translation services, if needed. You can also choose to wait until the next business day to receive help in one of the supported languages other than English.

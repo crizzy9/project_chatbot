@@ -1,0 +1,2 @@
+How do I get support during an Outage or Service Interruption Event (SIE)?
+During a SIE (Service Outage), Microsoft provides frequent and timely updates to the  . This is the best way to receive the latest information. You can still submit a support request, and Microsoft will work with you to determine whether your issue is related to an ongoing SIE.

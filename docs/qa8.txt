@@ -1,0 +1,2 @@
+What support is included 
+We have designed our Azure Support plans to meet different business needs. Paid support plans provide access to Technical Support for break-fix issues on a 24x7 basis. Higher tiers of support plans offer faster initial response times and access to Advisory support, Configuration Optimization Reviews, and other benefits. More information about the existing support plans can be found at the   page. Azure Stack is covered by the Standard, Pro Direct and Premier support plans.

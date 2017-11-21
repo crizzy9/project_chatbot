@@ -1,0 +1,2 @@
+I have multiple EA enrollments. Do I need a support plan for each EA enrollment?
+Yes, each EA enrollment requires a separate support plan. If you have one Azure Support plan and multiple EA enrollments, then support is only covered under the enrollment the support plan is tied to. Please note that if you have multiple Azure subscriptions under a single EA enrollment with a support plan, then all those subscriptions will have access to Technical Support.

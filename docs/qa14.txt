@@ -1,0 +1,2 @@
+How do I contact Azure Support?
+You get easy access to Azure Support by going online to the   and submitting a support request. This is the fastest way to hear back from a Support Engineer that will be ready to start helping you. Access to Subscription Management and billing support is included with your Microsoft Azure subscription, and Technical Support is provided through one of the  .

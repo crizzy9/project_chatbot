@@ -1,0 +1,2 @@
+I am an MPN partner. Can I use my MPN support benefits to submit Azure technical support request?
+Yes, if you are eligible for such benefits. Check the   for details on your support benefits. If you have these benefits, then submit a support request from the Azure Portal. Then, select “Additional Options” under the “Support Plan” step and enter your Access ID and Contract ID information to proceed.

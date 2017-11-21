@@ -1,0 +1,2 @@
+Do I need a support plan if I need assistance with a technical issue experienced with Microsoft Azure?
+Yes, you need an Azure paid support plan to receive one-on-one technical support. More information about the existing support plans can be found at the   page.

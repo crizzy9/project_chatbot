@@ -1,0 +1,2 @@
+Are MPN partners able to use their on-premise MPN support benefits to get access to Azure Technical support?
+Yes. MPN partners can use the same MPN benefits they have for other Microsoft products to receive Azure Technical support. To submit a new support request from the  , in the support request’s Step 4, select "Additional Support Options" and enter your Access ID and Contract ID information to proceed.

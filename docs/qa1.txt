@@ -1,0 +1,2 @@
+Where is Azure Support available?
+Support is available in markets where Microsoft Azure is offered. Some specific services may not be covered in all regions immediately after General Availability (GA).

@@ -1,0 +1,2 @@
+How do I upgrade to a higher-tier Azure Support plan?
+You can upgrade to a higher-tier plan by submitting a “Subscription Management” support request. Microsoft will waive the remaining payments on your original Azure Support plan and charge you at the higher tier for the remaining months of your initial commitment.

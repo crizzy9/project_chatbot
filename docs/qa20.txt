@@ -1,0 +1,2 @@
+How do I get support if I don’t have an Azure subscription yet, and I get an error message while creating one?
+You can open a Subscription Management support request through the  , even if your subscription has not yet been created.

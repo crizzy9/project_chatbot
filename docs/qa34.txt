@@ -1,0 +1,2 @@
+How do I cancel my Azure Support plan?
+Subscriptions are cancelled through Account Portal/subscriptions. Select the subscription you wish to cancel, and select “Cancel Subscription”.  For more information, please see the following:  Note that Azure Support requires commitment for the duration of the subscription term. Cancelation will not result in a pro-rated refund.

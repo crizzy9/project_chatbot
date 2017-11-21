@@ -1,0 +1,2 @@
+Who can submit a support request?
+The   on the subscription can submit a support request. Additionally any users with ‘write permissions’ ( ) to a subscription will be able to submit and manage a support request related to that given subscription.

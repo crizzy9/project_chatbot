@@ -1,0 +1,2 @@
+What support is included 
+Your Microsoft Azure subscription includes access to subscription management support (e.g. billing, quota adjustment, account transfer) at no additional cost. You can get started with your request in the  . In addition, Microsoft Azure subscriptions include access to the   and the   to help you troubleshoot issues.

@@ -1,0 +1,2 @@
+What is Initial Response Time and how quickly can I expect to hear back from someone after submitting my support request?
+Initial Response Time is the period from when you submit your support request to when a Microsoft Support Engineer contacts you and starts working on your support request. The Initial Response Time varies with both the support plan and the Business Impact of the request (also known as Severity).

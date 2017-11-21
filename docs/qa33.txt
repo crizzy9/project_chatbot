@@ -1,0 +1,2 @@
+What happens at the end of the term?
+At the end of your 6-month term, your plans will automatically renew to the same Azure Support plan for another 6 months, using the same payment method. As an account owner, you can elect to turn off the auto-renew functionality through the  . If you do not wish to auto renew, please log into the  , select the support plan in question, click on the "Change renewal details," and unselect the default option to auto renew.
