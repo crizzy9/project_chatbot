@@ -28,7 +28,3 @@ class Indexer:
     def get_index(self):
         return self.index
 
-
-indexer = Indexer()
-indexer.create_index()
-print(indexer.get_index())
